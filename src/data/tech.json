@@ -7,7 +7,7 @@
         { "name": "SQL", "level": 3, "icon": "skill-icons:mysql-dark" },
         { "name": "Pandas", "level": 3, "icon": "skill-icons:python-dark" },
         { "name": "NumPy", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
+        { "name": "Excel", "level": 3, "icon": "skill-icons:git" },
         { "name": "Power BI", "level": 3, "icon": "skill-icons:git" }
       ]
     },
