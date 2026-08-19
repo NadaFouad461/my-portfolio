@@ -5,8 +5,8 @@
       "skills": [
         { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
         { "name": "SQL", "level": 3, "icon": "skill-icons:mysql-dark" },
-        { "name": "Pandas", "level": 3, "icon": "skill-icons:pandas-dark" },
-        { "name": "NumPy", "level": 2, "icon": "skill-icons:numpy-dark" },
+        { "name": "Pandas", "level": 3, "icon": "devicon:pandas" },
+        { "name": "NumPy", "level": 2, "icon": "devicon:numpy" },
         { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
         { "name": "Power BI", "level": 3, "icon": "logos:microsoft-power-bi" }
       ]
@@ -15,8 +15,7 @@
       "title": "Data Visualization",
       "skills": [
         { "name": "Matplotlib", "level": 2, "icon": "devicon:matplotlib" },
-        { "name": "Seaborn", "level": 2, "icon": "devicon:python" },
-        { "name": "Power BI", "level": 3, "icon": "logos:microsoft-power-bi" }
+        { "name": "Seaborn", "level": 2, "icon": "devicon:python" }
       ]
     },
     {
