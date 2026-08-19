@@ -1,34 +1,36 @@
 {
   "categories": [
     {
-      "title": "Frontend",
+      "title": "Data Analysis",
       "skills": [
-        { "name": "React", "level": 3, "icon": "skill-icons:react-dark" },
-        { "name": "Next.js", "level": 2, "icon": "skill-icons:nextjs-dark" },
-        { "name": "TypeScript", "level": 3, "icon": "skill-icons:typescript" },
-        { "name": "JavaScript", "level": 3, "icon": "skill-icons:javascript" },
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
-        { "name": "HTML", "level": 3, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 3, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 2, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
+        { "name": "SQL", "level": 3, "icon": "skill-icons:mysql-dark" },
+        { "name": "Pandas", "level": 3, "icon": "skill-icons:pandas-dark" },
+        { "name": "NumPy", "level": 2, "icon": "skill-icons:numpy-dark" },
+        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
+        { "name": "Power BI", "level": 3, "icon": "logos:microsoft-power-bi" }
       ]
     },
     {
-      "title": "Backend & Tools",
+      "title": "Data Visualization",
       "skills": [
-        { "name": "Node.js", "level": 3, "icon": "skill-icons:nodejs-dark" },
-        { "name": "Express", "level": 2, "icon": "skill-icons:expressjs-dark" },
-        { "name": "Docker", "level": 2, "icon": "skill-icons:docker" },
-        { "name": "Git", "level": 3, "icon": "skill-icons:git" }
+        { "name": "Matplotlib", "level": 2, "icon": "devicon:matplotlib" },
+        { "name": "Seaborn", "level": 2, "icon": "devicon:python" },
+        { "name": "Power BI", "level": 3, "icon": "logos:microsoft-power-bi" }
       ]
     },
     {
-      "title": "Database",
+      "title": "Statistics & Machine Learning",
       "skills": [
-        { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" },
-        { "name": "MongoDB", "level": 2, "icon": "skill-icons:mongodb" },
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" }
+        { "name": "Statistics", "level": 2, "icon": "mdi:chart-bell-curve" },
+        { "name": "Scikit-learn", "level": 2, "icon": "devicon:scikitlearn" },
+        { "name": "Data Preprocessing", "level": 2, "icon": "mdi:database-cog" },
+        { "name": "Feature Engineering", "level": 2, "icon": "mdi:feature-search-outline" },
+        { "name": "Model Evaluation", "level": 2, "icon": "mdi:chart-line" },
+        { "name": "Supervised Learning", "level": 2, "icon": "mdi:brain" },
+        { "name": "Unsupervised Learning", "level": 2, "icon": "mdi:brain" }
       ]
     }
   ]
 }
+
