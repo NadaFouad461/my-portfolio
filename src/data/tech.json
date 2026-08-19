@@ -5,29 +5,27 @@
       "skills": [
         { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
         { "name": "SQL", "level": 3, "icon": "skill-icons:mysql-dark" },
-        { "name": "Pandas", "level": 3, "icon": "devicon:pandas" },
-        { "name": "NumPy", "level": 2, "icon": "devicon:numpy" },
+        { "name": "Pandas", "level": 3, "icon": "skill-icons:python-dark" },
+        { "name": "NumPy", "level": 2, "icon": "skill-icons:python-dark" },
         { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
-        { "name": "Power BI", "level": 3, "icon": "logos:microsoft-power-bi" }
+        { "name": "Power BI", "level": 3, "icon": "skill-icons:git" }
       ]
     },
     {
       "title": "Data Visualization",
       "skills": [
-        { "name": "Matplotlib", "level": 2, "icon": "devicon:matplotlib" },
-        { "name": "Seaborn", "level": 2, "icon": "devicon:python" }
+        { "name": "Matplotlib", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "Seaborn", "level": 2, "icon": "skill-icons:python-dark" }
       ]
     },
     {
       "title": "Statistics & Machine Learning",
       "skills": [
-        { "name": "Statistics", "level": 2, "icon": "mdi:chart-bell-curve" },
-        { "name": "Scikit-learn", "level": 2, "icon": "devicon:scikitlearn" },
-        { "name": "Data Preprocessing", "level": 2, "icon": "mdi:database-cog" },
-        { "name": "Feature Engineering", "level": 2, "icon": "mdi:feature-search-outline" },
-        { "name": "Model Evaluation", "level": 2, "icon": "mdi:chart-line" },
-        { "name": "Supervised Learning", "level": 2, "icon": "mdi:brain" },
-        { "name": "Unsupervised Learning", "level": 2, "icon": "mdi:brain" }
+        { "name": "Statistics", "level": 2, "icon": "skill-icons:git" },
+        { "name": "Machine Learning", "level": 2, "icon": "skill-icons:python-dark" },
+        { "name": "Data Preprocessing", "level": 2, "icon": "skill-icons:git" },
+        { "name": "Feature Engineering", "level": 2, "icon": "skill-icons:git" },
+        { "name": "Model Evaluation", "level": 2, "icon": "skill-icons:git" }
       ]
     }
   ]
