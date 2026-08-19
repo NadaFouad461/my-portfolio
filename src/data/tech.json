@@ -5,17 +5,17 @@
       "skills": [
         { "name": "Python", "level": 3, "icon": "skill-icons:python-dark" },
         { "name": "SQL", "level": 3, "icon": "skill-icons:mysql-dark" },
-        { "name": "Pandas", "level": 3, "icon": "simple-icons:pandas" },
-        { "name": "NumPy", "level": 2, "icon": "simple-icons:numpy" },
-        { "name": "Excel", "level": 3, "icon": "vscode-icons:file-type-excel" },
-        { "name": "Power BI", "level": 3, "icon": "simple-icons:powerbi" }
+        { "name": "Pandas", "level": 3, "icon": "devicon:pandas" },
+        { "name": "NumPy", "level": 2, "icon": "devicon:numpy" },
+        { "name": "Excel", "level": 3, "icon": "mdi:microsoft-excel" },
+        { "name": "Power BI", "level": 3, "icon": "mdi:chart-bar" }
       ]
     },
     {
       "title": "Data Visualization",
       "skills": [
         { "name": "Matplotlib", "level": 2, "icon": "devicon:matplotlib" },
-        { "name": "Seaborn", "level": 2, "icon": "logos:seaborn-icon" }
+        { "name": "Seaborn", "level": 2, "icon": "devicon:seaborn" }
       ]
     },
     {
@@ -23,8 +23,8 @@
       "skills": [
         { "name": "Statistics", "level": 2, "icon": "mdi:chart-bell-curve-cumulative" },
         { "name": "Machine Learning", "level": 2, "icon": "skill-icons:scikitlearn-dark" },
-        { "name": "Data Preprocessing", "level": 2, "icon": "fluent:data-whisper-20-filled" },
-        { "name": "Feature Engineering", "level": 2, "icon": "carbon:data-categorical" },
+        { "name": "Data Preprocessing", "level": 2, "icon": "mdi:database-cog" },
+        { "name": "Feature Engineering", "level": 2, "icon": "mdi:table-settings" },
         { "name": "Model Evaluation", "level": 2, "icon": "mdi:chart-line" }
       ]
     }
