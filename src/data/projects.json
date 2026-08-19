@@ -2,7 +2,7 @@
   {
     "title": "Superstore Sales Analysis",
     "description": "A comprehensive sales data analysis project using Excel for data cleaning, transformation, and exploration. The project includes Pivot Tables, Pivot Charts, and three interactive dashboards to analyze sales performance and extract meaningful business insights.",
-    "images": ["DAP1.png", "DAP2.png"],
+    "images": ["DAPC1.png", "DAPD1 (1).png"],
     "tech": ["Excel", "Pivot Tables", "Pivot Charts", "Data Cleaning", "Data Analysis"],
     "platforms": ["web"],
     "link": "https://github.com/NadaFouad461/Superstore-Sales-Analysis.git",
@@ -11,7 +11,7 @@
   {
     "title": "Supermarket Data Analysis",
     "description": "A data analysis project focused on building an end-to-end data workflow using SQL for ETL and data modeling, followed by Power BI for creating four interactive dashboards and delivering actionable insights from the data.",
-    "images": ["astro-02.jpeg", "#"],
+    "images": ["DAPC2", "DAPD1 (2)"],
     "tech": ["SQL", "ETL", "Data Modeling", "Power BI", "Data Visualization"],
     "platforms": ["web"],
     "link": "",
