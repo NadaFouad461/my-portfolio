@@ -1,27 +1,28 @@
+```json
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
-    "type": "Full time job",
-    "description": "Leading cross-platform application development using Flutter and Python FastAPI. Focused on scalable system design, API integrations, and team leadership.",
-    "skills": ["Team Leadership", "System Architecture", "Flutter", "FastAPI"]
+    "company": "National Telecommunication Institute (NTI)",
+    "role": "Data Analytics Intern",
+    "period": "120 Hours",
+    "type": "Internship",
+    "description": "Completed a 120-hour Data Analytics internship focused on data analysis, data visualization, and practical analytical skills.",
+    "skills": ["Python", "SQL", "Excel", "Power BI", "Data Analysis"]
   },
   {
-    "company": "Demo Solutions Ltd",
-    "url": "https://example.com",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
-    "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "company": "AXIS",
+    "role": "Data Science Trainee",
+    "period": "3 Months",
+    "type": "Training",
+    "description": "Completed a three-month Data Science training focused on data analysis, statistics, and machine learning fundamentals.",
+    "skills": ["Python", "Pandas", "NumPy", "Statistics", "Machine Learning"]
   },
   {
-    "company": "Demo University of Tech",
+    "company": "Sadat City University",
     "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
+    "period": "2024 - 2028",
     "type": "Student",
-    "description": "Graduated with honors. Focused on data structures, algorithm optimization, software architecture, and database systems.",
-    "skills": ["Data Structures", "Algorithms", "OOP", "DBMS"]
+    "description": "Currently pursuing a Bachelor's degree in Computer Science at the Faculty of Computers and Artificial Intelligence, Sadat City University.",
+    "skills": ["Computer Science", "Programming", "Data Structures", "Algorithms", "Databases"]
   }
 ]
+```
