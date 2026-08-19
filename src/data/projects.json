@@ -8,13 +8,13 @@
     "link": "https://github.com/NadaFouad461/Superstore-Sales-Analysis.git",
     "category": "Data Analysis"
   },
-  {
+ {
     "title": "Supermarket Data Analysis",
     "description": "A data analysis project focused on building an end-to-end data workflow using SQL for ETL and data modeling, followed by Power BI for creating four interactive dashboards and delivering actionable insights from the data.",
-    "images": ["DAPC2.png", "DAPD1 (2).png"],
+    "images": ["DAPC2.gif", "DAPD1 (2).png"],
     "tech": ["SQL", "ETL", "Data Modeling", "Power BI", "Data Visualization"],
     "platforms": ["web"],
-    "link": "",
+    "link": "https://github.com/NadaFouad461/Supermarket-Data-Analysis.git",
     "category": "Data Analysis"
   }
 ]
