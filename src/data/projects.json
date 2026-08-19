@@ -1,20 +1,21 @@
 [
   {
-    "title": "Awesome Website",
-    "description": "A high-performance, SEO-optimized web application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-01.webp", "astro-02.jpeg"],
-    "tech": ["Astro", "Tailwind"],
+    "title": "Superstore Sales Analysis",
+    "description": "A comprehensive sales data analysis project using Excel for data cleaning, transformation, and exploration. The project includes Pivot Tables, Pivot Charts, and three interactive dashboards to analyze sales performance and extract meaningful business insights.",
+    "images": [],
+    "tech": ["Excel", "Pivot Tables", "Pivot Charts", "Data Cleaning", "Data Analysis"],
     "platforms": ["web"],
-    "link": "https://astro.build/themes/details/career-portfolio-data-driven-astro-ssg/",
-    "category": "Published Website"
+    "link": "",
+    "category": "Data Analysis"
   },
   {
-    "title": "Demo Mobile App",
-    "description": "A high-performance mobile application built with modern frameworks to showcase technical expertise.",
-    "images": ["astro-02.jpeg", "#"],
-    "tech": ["Flutter", "Dart", "REST API"],
-    "platforms": ["apple-ios", "android"],
-    "link": "https://github.com/nbakh16/career-portfolio-template",
-    "category": "Hobby"
+    "title": "Supermarket Data Analysis",
+    "description": "A data analysis project focused on building an end-to-end data workflow using SQL for ETL and data modeling, followed by Power BI for creating four interactive dashboards and delivering actionable insights from the data.",
+    "images": [],
+    "tech": ["SQL", "ETL", "Data Modeling", "Power BI", "Data Visualization"],
+    "platforms": ["web"],
+    "link": "",
+    "category": "Data Analysis"
   }
 ]
+
