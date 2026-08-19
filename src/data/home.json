@@ -48,7 +48,7 @@
     },
     {
       "name": "Email",
-      "url": "nf1952006@gmail.com",
+      "url": "mailto:nf1952006@gmail.com",
       "icon": "mdi:email",
       "label": "Send Email",
       "showInContact": true
