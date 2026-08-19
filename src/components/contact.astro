@@ -25,16 +25,15 @@ import localData from '../data/home.json';
               href={social.url} 
               target={isEmail ? undefined : "_blank"}
               rel={isEmail ? undefined : "noopener noreferrer"}
-              class="contact-card opacity-0 group p-8 bg-accent/5 border border-accent/10 rounded-2xl hover:border-accent/40 hover:bg-accent/10 hover:shadow-[0_0_20px_color-mix(in_srgb,var(--color-accent)_15%,transparent)] transition-all duration-300"
+              class="contact-card opacity-0 group p-8 bg-accent/5 border border-accent/10 rounded-2xl hover:border-accent/40 hover:bg-accent/10 hover:shadow-[0_0_20px_color-mix(in_srgb,var(--color-accent)_15%,transparent)] transition-all duration-300 flex flex-col items-center justify-between"
             >
-              <Icon 
-                name={social.icon} 
-                class="w-12 h-12 text-accent mb-4 mx-auto group-hover:scale-110 transition-transform" 
-              />
-              <h3 class="text-maintext font-bold mb-1">{social.name}</h3>
-              <p class="text-subtext text-xs truncate px-2 mb-3">
-                {social.url.replace('https://', '').replace('mailto:', '').replace('wa.me/', '+')}
-              </p>
+              <div>
+                <Icon 
+                  name={social.icon} 
+                  class="w-12 h-12 text-accent mb-4 mx-auto group-hover:scale-110 transition-transform" 
+                />
+                <h3 class="text-maintext font-bold mb-4">{social.name}</h3>
+              </div>
               <span class="inline-flex items-center gap-1 text-[10px] uppercase tracking-widest text-accent/70 font-mono border border-accent/20 rounded-full px-2.5 py-0.5 group-hover:border-accent/40 group-hover:text-accent transition-colors duration-300">
                 {social.label || 'Connect'}
               </span>
