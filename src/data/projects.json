@@ -11,7 +11,7 @@
  {
     "title": "Supermarket Data Analysis",
     "description": "A data analysis project focused on building an end-to-end data workflow using SQL for ETL and data modeling, followed by Power BI for creating four interactive dashboards and delivering actionable insights from the data.",
-    "images": ["DAPC2.gif", "DAPD1_2.png"],
+    "images": ["DAPD1_2.png", "DAPC2.png"],
     "tech": ["SQL", "ETL", "Data Modeling", "Power BI", "Data Visualization"],
     "platforms": ["web"],
     "link": "https://github.com/NadaFouad461/Supermarket-Data-Analysis.git",
