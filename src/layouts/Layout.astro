@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css'
 import { SITE_CONFIG } from '../config.ts';
+import Analytics from '@vercel/analytics/astro';
 
 interface Props {
   title: string;
@@ -135,6 +136,7 @@ const ogLocale = lang.includes('_') ? lang : `${lang}_${lang.toUpperCase()}`;
         meta.setAttribute('content', isDark ? '#000000' : '#FFFFFF');
       }
     </script>
+<Analytics />
 
   </head>
   <body class="bg-container relative min-h-screen overflow-x-hidden antialiased">
